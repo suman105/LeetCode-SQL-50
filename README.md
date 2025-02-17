@@ -26,8 +26,8 @@ I have solved all LeetCode SQL 50 problems, and they are organized based on thei
 To get a local copy, use the following command:  
 
 ```sh
-git clone https://github.com/suman105/LeetCode_SQL_50.git
-cd LeetCode_SQL_50
+git clone https://github.com/suman105/LeetCode-SQL-50.git
+cd LeetCode-SQL-50
 ```
 
 ## ⚙️ **Prerequisites**
