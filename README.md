@@ -1,4 +1,4 @@
-# **LeetCode SQL 50 - Solutions 🚀** 🚀  
+# **LeetCode SQL 50 - Solutions 🚀** 
 
 Welcome to my LeetCode SQL 50 solution repository! This repository contains well-structured, optimized SQL solutions for all LeetCode SQL 50 problems, along with detailed explanations to enhance your understanding.
 
